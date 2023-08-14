@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samararican
 - 👀 I’m interested in where art and science intersect
-- 🌱 I’m currently learning how to be an advanced prompt engineer
+- 🌱 I’m currently advancing in prompt engineering
 - 💞️ I’m looking to collaborate on platforms supporting the ai revolution
 - 📫 How to reach me: thecreativecircleconsulting@proton.me
 
